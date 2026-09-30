@@ -293,7 +293,7 @@ The application performed successfully during testing.
 Clone the repository
 
 ```bash
-git clone https://github.com/VANSHAJ-CLOUD-ENGINEERING/devops-aws-assignment.git
+git clone https://github.com/Team-Shadow-1989/AWS-CLOUD-PIPELINE.git
 ```
 
 Go to the project
