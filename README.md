@@ -334,14 +334,10 @@ http://localhost:3000
 - CloudWatch Logs integration
 - AWS CodeDeploy
 
-# 🎥 Project Demo Video
+# 🎥 Project Overview:
 
 A complete walkthrough of the project is available here:
 
-**Google Drive:**  
-https://drive.google.com/drive/folders/1SvJgrKvj0Ae2lifT99Ek8JIXPbT3nzu4
-
-The demo covers:
 - Project overview
 - GitHub repository structure
 - AWS EC2 deployment
@@ -355,9 +351,9 @@ The demo covers:
 
 # 👨‍💻 Author
 
-**Vanshaj Rawat**
+**Vaibhav Rawat**
 
-DevOps AWS Assignment
+Cloud Assignment
 
 ---
 
